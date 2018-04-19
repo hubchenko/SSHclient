@@ -12,7 +12,7 @@ A Python client wrapper for paramiko
 
 #### Installation
 ```bash
-wget -O install.sh https://github.intel.com/raw/HostingSDI/SSHclient/master/install.sh
+wget -O install.sh https://github.com/raw/hubchenko/SSHclient/master/install.sh
 chmod +x install.sh
 sudo ./install.sh venv
 # Note: the argument venv is optional but recommended - if specified will install all packages in a Python virtual environment
@@ -47,7 +47,7 @@ $ python
 
 Clone the repository
 ```bash
-git clone https://github.intel.com/HostingSDI/SSHclient.git
+git clone https://github.com/hubchenko/SSHclient.git
 cd SSHclient
 ```
 

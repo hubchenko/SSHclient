@@ -7,10 +7,6 @@ if [ $(id -u) != 0 ]; then
     exit 1
 fi
 
-# set proxy
-export http_proxy="http://proxy-chain.intel.com:911"
-export https_proxy="https://proxy-chain.intel.com:911"
-
 # install required packages
 apt-get update
 apt-get install -y gcc python-dev python-virtualenv
