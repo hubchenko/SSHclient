@@ -1,0 +1,14 @@
+pipeline:
+    build:
+        image: python:2.7
+        commands:
+            - chmod +x build.sh
+            - ./build.sh
+    # notify:
+    #     image: drillster/drone-email
+    #     from: mark.hubchenko@gmail.com
+    #     host: smtp.intel.com
+    #     port: 25
+    #     recipients:
+    #         - mark.hubchekno@gmail.com
+    #     skip_verify: true
