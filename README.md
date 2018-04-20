@@ -1,4 +1,4 @@
-![alt text](https://ubit-teamcity-or.intel.com/app/rest/builds/buildType:%28id:HostingSDI_CloudInfrastructureProvisioning_SSHclient%29/statusIcon "TC Build Status Icon")  [![Build Status](https://fms01lxuthub01.amr.corp.intel.com/api/badges/HostingSDI/SSHclient/status.svg)](https://fms01lxuthub01.amr.corp.intel.com/HostingSDI/SSHclient)
+
 
 
 ## SSHclient
